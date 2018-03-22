@@ -1,0 +1,13 @@
+My program is a simple programming language for kids or new programmers. People with no programming experience can use the program to get a rough idea of how coding works. I’m using only tkinter so no other module is needed. I make use of class and OOP a lot in this program. The difficult part about this project is to get the character moving and draw lines correctly. To do so, I have a helper function to help get all the positions that the character needs to be at, and the color of the line that should be drawn as it moves. Then I use another helper function to divide the positions into more intermediate positions, so it would look like it’s moving little by little. The repeat part is also a bit hard. I need to have another function that first replaces all the repeat loops with the actions inside the loops multiplied by the number of repeats, and then I use the other two helper functions to turn the movements to positions. In this way, nested for loops can also be used.
+
+User interface:
+The three boards are representative of the coding process. It makes it easier for users to choose the modes and functions they want to use. The first board is the result that the codes generate. The second board is some motions/controls/colors that users can choose from to make the moves. The third board is where the actual code shows. Users simply click on the options on the second board and they can see their codes in sequence shown on the third board. If they hit run, they will also see the character running in the first board in the way that they intend.
+
+Inspirations:
+Scratch (scratch.mit.edu): Scratch is a complete programming language for kids. In Scratch, users can drag the functions to make the character move. One change I made in my program is that instead of dragging, users can just click on the functions and a series of movements would show up in a more code-like way on the screen.
+
+Erin Cawley’s term project of 15-112 Summer 2016 (https://www.youtube.com/watch?v=zwY2vhRSZSI): My program is very similar to this term project. I added more features like different difficulty modes, sample codes, and “create your own color”.
+
+Changes from the original project proposal and storyboard:
+I changed the dragging part to clicking and showing codes.
+I added a help screen.

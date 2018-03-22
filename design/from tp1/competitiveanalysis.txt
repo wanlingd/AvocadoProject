@@ -1,0 +1,12 @@
+My term project is inspired by Scratch, so I'm building something very similar. I actually think Scratch is so good, that almost everything I think I can add to my program, is already done by it. I don't think I can build something as complete as Scratch for my term project, so I'll just list some features that I like about it and wish to also implement in my project:
+
+1. In the scripts board, different functions are represented in different shapes, and the shapes of squares decide if they can be put together, so that there wouldn't be errors in the program.
+
+2. A lot of user input. Users can modify the functions, and can upload/draw pictures of their own.
+
+3. The language in Scratch is really easy to understand, even for kids.
+
+4. Scratch categorizes different kinds of functions in different colors, so that it's easier for users to choose from categories.
+
+Something I would to do in my program that Scratch does not have:
+A display button: users can hit that button and watch the whole program, instead of hitting every squares they put in the control board.

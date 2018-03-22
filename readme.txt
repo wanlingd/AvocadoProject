@@ -1,0 +1,2 @@
+My project is a tkinter program. It’s a simple programming language for kids or new programmers. Users can use the program to get a general idea of how coding looks like.
+No module is needed to run the program. Simply open tp.py to run the program.
